@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-LeetCode ID: [](https://leetcode.com/mchahin/)  
-HackerRank ID: https://www.hackerrank.com/malekchahin_a
+```
+Malek Chain / [LeetCode](https://leetcode.com/mchahin/) / [HackerRank](https://www.hackerrank.com/malekchahin_a)
+```
 
 <!--
 **chahinMalek/chahinMalek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
