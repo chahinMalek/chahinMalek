@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-LeetCode ID: https://leetcode.com/mchahin/
+LeetCode ID: [](https://leetcode.com/mchahin/)  
 HackerRank ID: https://www.hackerrank.com/malekchahin_a
 
 <!--
