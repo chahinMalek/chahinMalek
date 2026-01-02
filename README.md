@@ -8,13 +8,8 @@
 ### GitHub Stats:
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chahinMalek&theme=github_dark" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chahinMalek&theme=github_dark&show_icons=true&hide_border=true&layout=compact" alt="Most used programming languages" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chahinmalek&show_icons=true&locale=en&layout=compact" alt="Top Langs" height="165em" />
-  <img src="https://github-readme-stats.vercel.app/api?username=chahinmalek&show_icons=true&locale=en" alt="GitHub Stats" height="165em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chahinMalek&theme=github_dark" alt="GitHub Stats" height="165em" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chahinMalek&theme=github_dark&show_icons=true&hide_border=true&layout=compact" alt="Most used programming languages" alt="Top Langs" height="165em" />
 </p>
 
 <p align="left">
