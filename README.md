@@ -2,7 +2,7 @@
 ### <p align="center">Machine Learning Engineer [@maverick-ai](https://www.linkedin.com/company/maverick-medical-ai/)</p>
 
 <p align="center">
-  <a href="https://github.com/chahinMalek/chahinMalek"><img src="https://img.shields.io/badge/Homepage-121013?style=for-the-badge&logo=github&logoColor=white" alt="Homepage" /></a>
+  <a href="https://github.com/chahinMalek"><img src="https://img.shields.io/badge/Homepage-121013?style=for-the-badge&logo=github&logoColor=white" alt="Homepage" /></a>
   <a href="https://www.linkedin.com/in/malek-chahin-68229816a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.kaggle.com/mchahin"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" /></a>
   <a href="https://leetcode.com/mchahin/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
