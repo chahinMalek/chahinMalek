@@ -14,7 +14,7 @@
 ---
 
 ### 💼 What I'm currently up to:
-* Architecting the core engine for [mCoder™](https://maverick-ai.com/direct-to-bill-autonomous-medical-coding/) transforming complex medical documentation into actionable data and defining the standard in autonomous coding.
+* Architecting the core engine for [mCoder™](https://maverick-ai.com/direct-to-bill-autonomous-medical-coding/) 0 transforming complex medical documentation into actionable data and defining the standard in autonomous coding.
 * Exploring the frontier of **LLMs and Autonomous Agents** combined with knowledge graphs within the financial and economic domains @insightmill.
 * Actively contributing to open-source.
 
