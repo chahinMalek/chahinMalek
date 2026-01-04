@@ -18,7 +18,7 @@
 * Exploring the frontier of **Autonomous Agents** combined with knowledge graphs within the financial and economic domains [@insightmill](https://github.com/Earendel-Org1).
 * Actively contributing to open-source.
 
-### 📂 Recent Contributions
+### 📂 Recent Open-Source Projects
 
 - [chahinMalek/carscout_pipe](https://github.com/chahinMalek/carscout_pipe) - Scraping pipeline for vehicle listings on olx.ba.
 - [chahinMalek/ordo](https://github.com/chahinMalek/ordo) - CLI tool to help organise you messy folders
@@ -26,12 +26,21 @@
 
 ---
 
-### 🛠️ Tech Stack
-| Category | Tools |
+### 🛠️ Technical Stack
+
+| Category | Tools & Technologies |
 | :--- | :--- |
-| **ML & NLP** | PyTorch, HuggingFace, LLM Agents, RAG, GNNs, XGBoost |
-| **Data & Infra** | AWS, Docker, Snowflake, DBT, Redis, PostgreSQL |
-| **Languages** | Python (Expert), Java, Go, SQL |
+| **Languages** | Python, Java, JavaScript, SQL |
+| **Frameworks** | FastAPI, Flask |
+| **ML Frameworks** | PyTorch, Scikit-learn, XGBoost |
+| **NLP** | HuggingFace, Transformers, SpaCy |
+| **AI Frameworks** | Langgraph, Langchain |
+| **MLOps** | WandB, Onnx, MLflow, Model Serving, Monitoring |
+| **Data** | Snowflake, DBT, Pandas |
+| **Web Scraping** | Selenium, Playwright |
+| **Databases** | PostgreSQL, Redis, MongoDB, SQLite |
+| **Infra & Cloud** | AWS, Docker, Linux |
+| **Experimenting** | Go, TensorFlow, Rust |
 
 ---
 
