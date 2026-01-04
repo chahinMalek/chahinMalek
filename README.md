@@ -30,9 +30,9 @@
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | Python, Java, JavaScript, SQL |
+| **Languages** | Python, Java, JavaScript, SQL, Go |
 | **Frameworks** | FastAPI, Flask |
-| **ML Frameworks** | PyTorch, Scikit-learn, XGBoost |
+| **ML Frameworks** | PyTorch, Scikit-learn, XGBoost, TensorFlow |
 | **NLP** | HuggingFace, Transformers, SpaCy |
 | **AI Frameworks** | Langgraph, Langchain |
 | **MLOps** | WandB, Onnx, MLflow, Model Serving, Monitoring |
@@ -40,7 +40,6 @@
 | **Web Scraping** | Selenium, Playwright |
 | **Databases** | PostgreSQL, Redis, MongoDB, SQLite |
 | **Infra & Cloud** | AWS, Docker, Linux |
-| **Experimenting** | Go, TensorFlow, Rust |
 
 ---
 
