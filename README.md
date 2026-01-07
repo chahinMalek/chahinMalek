@@ -15,7 +15,7 @@
 
 ### 💼 What I'm currently up to:
 * Architecting the core engine for [mCoder™](https://maverick-ai.com/direct-to-bill-autonomous-medical-coding/) - transforming complex medical documentation into actionable data and defining the standard in autonomous coding.
-* Exploring the frontier of **Autonomous Agents** combined with knowledge graphs within the financial and economic domains [@insightmill](https://github.com/Earendel-Org1).
+* Exploring the frontier of **AI Agents** combined with knowledge graphs within the financial and economic domains [@insightmill](https://github.com/Earendel-Org1).
 * Actively contributing to open-source.
 
 ### 📂 Recent Open-Source Projects
